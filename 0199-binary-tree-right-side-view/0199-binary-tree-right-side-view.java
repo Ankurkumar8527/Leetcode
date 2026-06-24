@@ -21,8 +21,9 @@ class Solution {
     public void postorder(TreeNode root,int level,List<Integer> ans){
         if(root==null) return;
         postorder(root.right,level+1,ans);
-        postorder(root.left,level+1,ans);
         if(ans.get(level)==-101)ans.set(level,root.val);
+        postorder(root.left,level+1,ans);
+        
     }
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
