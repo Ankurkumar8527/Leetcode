@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public List<Integer> BFS(TreeNode root){
+    public List<Integer> DFS(TreeNode root){
             // Using Stack
         List<Integer> ans = new ArrayList<>();
         Stack<TreeNode> s = new Stack<>();
@@ -28,6 +28,6 @@ class Solution {
         return ans;
     }
     public List<Integer> preorderTraversal(TreeNode root) {
-        return BFS(root);
+        return DFS(root);
     }
 }
