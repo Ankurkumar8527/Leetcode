@@ -21,8 +21,8 @@ class Solution {
     public void DFS(TreeNode root,int level,List<Integer> ans){
         if(root==null) return;
         DFS(root.left,level+1,ans);
-        ans.set(level,root.val);
         DFS(root.right,level+1,ans);
+        ans.set(level,root.val);
     }
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
