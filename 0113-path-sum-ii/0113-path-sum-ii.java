@@ -18,9 +18,7 @@ class Solution {
         if(root==null) return;
         path.add(root.val);
         targetSum-=root.val;
-        if(root.left==null && root.right==null){
-            if(targetSum==0) ans.add(new ArrayList<>(path));
-        }
+        if(root.left==null && root.right==null && targetSum==0) ans.add(new ArrayList<>(path));
         helper(root.left,path,targetSum,ans);
         helper(root.right,path,targetSum,ans);
         path.remove(path.size()-1);
