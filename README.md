@@ -56,6 +56,7 @@ All Solved Leetcode question
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ankurkumar8527/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ All Solved Leetcode question
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ankurkumar8527/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -88,4 +90,5 @@ All Solved Leetcode question
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ankurkumar8527/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
