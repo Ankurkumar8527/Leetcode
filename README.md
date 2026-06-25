@@ -14,6 +14,7 @@ All Solved Leetcode question
 | [0001-two-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankurkumar8527/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0013-roman-to-integer) |
+| [1189-maximum-number-of-balloons](https://github.com/Ankurkumar8527/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
@@ -33,6 +34,7 @@ All Solved Leetcode question
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankurkumar8527/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0013-roman-to-integer) |
+| [1189-maximum-number-of-balloons](https://github.com/Ankurkumar8527/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,4 +100,8 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0113-path-sum-ii) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Ankurkumar8527/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
