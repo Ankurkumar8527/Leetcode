@@ -9,6 +9,7 @@ All Solved Leetcode question
 | [0001-two-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ankurkumar8527/Leetcode/tree/master/0011-container-with-most-water) |
 | [0162-find-peak-element](https://github.com/Ankurkumar8527/Leetcode/tree/master/0162-find-peak-element) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +110,5 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Ankurkumar8527/Leetcode/tree/master/0162-find-peak-element) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
