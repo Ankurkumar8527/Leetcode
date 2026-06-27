@@ -11,6 +11,7 @@ All Solved Leetcode question
 | [0162-find-peak-element](https://github.com/Ankurkumar8527/Leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1095-find-in-mountain-array) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Ankurkumar8527/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
 | ------- |
