@@ -8,6 +8,7 @@ All Solved Leetcode question
 | ------- |
 | [0001-two-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ankurkumar8527/Leetcode/tree/master/0011-container-with-most-water) |
+| [0162-find-peak-element](https://github.com/Ankurkumar8527/Leetcode/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +105,8 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Ankurkumar8527/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Ankurkumar8527/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
