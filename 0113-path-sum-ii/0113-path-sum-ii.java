@@ -14,18 +14,19 @@
  * }
  */
 class Solution {
-    public void helper(TreeNode root,List<Integer> path,int targetSum,List<List<Integer>> ans){
+    public void helper(TreeNode root,int targetSum,List<Integer> path,List<List<Integer>> ans){
         if(root==null) return;
         path.add(root.val);
         targetSum-=root.val;
-        if(root.left==null && root.right==null && targetSum==0) ans.add(new ArrayList<>(path));
-        helper(root.left,path,targetSum,ans);
-        helper(root.right,path,targetSum,ans);
+        if(targetSum==0 && root.left==null && root.right==null)
+            ans.add(new ArrayList<>(path));
+        helper(root.left,targetSum,path,ans);
+        helper(root.right,targetSum,path,ans);
         path.remove(path.size()-1);
     }
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> ans = new ArrayList<>();
-        helper(root,new ArrayList<>(),targetSum,ans);
+        helper(root,targetSum,new ArrayList<>(),ans);
         return ans;
     }
 }
