@@ -74,6 +74,7 @@ All Solved Leetcode question
 | [0199-binary-tree-right-side-view](https://github.com/Ankurkumar8527/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ All Solved Leetcode question
 | [0199-binary-tree-right-side-view](https://github.com/Ankurkumar8527/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -141,4 +143,8 @@ All Solved Leetcode question
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankurkumar8527/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
