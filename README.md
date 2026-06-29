@@ -77,6 +77,7 @@ All Solved Leetcode question
 | [0437-path-sum-iii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ankurkumar8527/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -102,6 +103,7 @@ All Solved Leetcode question
 | [0437-path-sum-iii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ankurkumar8527/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Stack
 |  |
@@ -152,5 +154,6 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ankurkumar8527/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
