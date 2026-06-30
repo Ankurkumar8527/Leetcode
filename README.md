@@ -84,6 +84,7 @@ All Solved Leetcode question
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ankurkumar8527/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ All Solved Leetcode question
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ankurkumar8527/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +140,7 @@ All Solved Leetcode question
 | [0543-diameter-of-binary-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ankurkumar8527/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -175,4 +178,5 @@ All Solved Leetcode question
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ankurkumar8527/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
