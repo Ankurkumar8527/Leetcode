@@ -24,7 +24,6 @@ class Solution {
     }
     
     public TreeNode sortedArrayToBST(int[] nums) {
-        int n = nums.length;
-        return BST(nums,0,n-1);
+        return BST(nums,0,nums.length-1);
     }
 }
