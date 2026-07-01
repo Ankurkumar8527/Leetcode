@@ -31,7 +31,7 @@ class Solution {
     public TreeNode balanceBST(TreeNode root) {
         List<Integer> arr = new ArrayList<>();
         DFS(root,arr);
-        Collections.sort(arr);
+        // Collections.sort(arr);
         return BST(arr,0,arr.size()-1);
     }
 }
