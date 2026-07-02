@@ -96,6 +96,7 @@ All Solved Leetcode question
 | [0938-range-sum-of-bst](https://github.com/Ankurkumar8527/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -138,6 +139,7 @@ All Solved Leetcode question
 | [0938-range-sum-of-bst](https://github.com/Ankurkumar8527/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
 |  |
@@ -168,6 +170,7 @@ All Solved Leetcode question
 | [0897-increasing-order-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ankurkumar8527/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
@@ -217,9 +220,14 @@ All Solved Leetcode question
 | [0938-range-sum-of-bst](https://github.com/Ankurkumar8527/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Sorting
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
