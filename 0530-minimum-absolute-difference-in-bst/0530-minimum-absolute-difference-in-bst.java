@@ -14,17 +14,17 @@
  * }
  */
 class Solution {
-    public void DFS(TreeNode root,List<Integer> arr){
+    TreeNode prev = null;
+    int ans = Integer.MAX_VALUE;
+    public void DFS(TreeNode root){
         if(root==null) return;
-        DFS(root.left,arr);
-        arr.add(root.val);
-        DFS(root.right,arr);
+        DFS(root.left);
+        if(prev!=null) ans = Math.min(ans,root.val-prev.val);
+        prev=root;
+        DFS(root.right);
     }
     public int getMinimumDifference(TreeNode root) {
-        List<Integer> arr = new ArrayList<>();
-        DFS(root,arr); 
-        int ans = Integer.MAX_VALUE;
-        for(int i=1;i<arr.size();i++) ans = Math.min(ans,arr.get(i)-arr.get(i-1));
+        DFS(root); 
         return ans;
     }
 }
