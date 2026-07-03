@@ -14,26 +14,29 @@
  * }
  */
 class Solution {
-    public List<Integer> DFS(TreeNode root){
-        // using Stack with using temp variable to check null value;
+    public List<Integer> inorderTraversal(TreeNode root) {
+        // Morris traversal
         List<Integer> ans = new ArrayList<>();
-        Stack<TreeNode> s = new Stack<>();
-        TreeNode temp = root;
-        while(true){
-            if(temp!=null){
-                s.push(temp);
-                temp=temp.left;
+        TreeNode curr = root;
+        while(curr!=null){
+            if(curr.left!=null){
+                TreeNode pred = curr.left;
+                while(pred.right!=null && pred.right!=curr) pred=pred.right;
+                if(pred.right==null){
+                    pred.right=curr;
+                    curr=curr.left;
+                }
+                else{ //pred.right!=null
+                    ans.add(curr.val);
+                    curr=curr.right;
+                    pred.right=null;
+                }
             }
             else{
-                if(s.isEmpty()) break;
-                TreeNode top = s.pop();
-                ans.add(top.val);
-                temp=top.right;
+                ans.add(curr.val);
+                curr=curr.right;
             }
         }
         return ans;
-    }
-    public List<Integer> inorderTraversal(TreeNode root) {
-        return DFS(root);
     }
 }
