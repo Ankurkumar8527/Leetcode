@@ -14,25 +14,31 @@
  * }
  */
 class Solution {
-    boolean flag;
-    public long max(TreeNode root){
-        if(root==null) return Long.MIN_VALUE;
-        long b=max(root.left);
-        if(root.val<=b) flag = false;
-        long c=max(root.right);
-        return Math.max(root.val,Math.max(b,c));
-    }
-    public long min(TreeNode root){
-        if(root==null) return Long.MAX_VALUE;
-        long b=min(root.left),
-        c=min(root.right);
-        if(root.val>=c) flag = false;
-        return Math.min(root.val,Math.min(b,c));
-    }
     public boolean isValidBST(TreeNode root) {
-        flag=true;
-        max(root);
-        min(root);
-        return flag;
+        // Morris Traversal
+        TreeNode curr=root;
+        TreeNode prev=null;
+        while(curr!=null){
+            if(curr.left!=null){
+                TreeNode pred = curr.left;
+                while(pred.right!=null && pred.right!=curr) pred=pred.right;
+                if(pred.right==null){
+                    pred.right=curr;
+                    curr=curr.left;
+                }
+                else{ // pred.right==curr
+                    if(prev!=null && prev.val>=curr.val) return false;
+                    prev=curr;
+                    curr=curr.right;
+                    pred.right=null;
+                }
+            }
+            else{
+                if(prev!=null && prev.val>=curr.val) return false;
+                prev=curr;
+                curr=curr.right;
+            }
+        }
+        return true;
     }
 }
