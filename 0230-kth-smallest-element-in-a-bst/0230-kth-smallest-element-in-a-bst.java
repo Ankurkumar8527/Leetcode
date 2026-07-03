@@ -14,15 +14,30 @@
  * }
  */
 class Solution {
-    public void inorder(TreeNode root,List<Integer> ele){
-        if(root==null) return;
-        inorder(root.left,ele);
-        ele.add(root.val);
-        inorder(root.right,ele);
-    }
     public int kthSmallest(TreeNode root, int k) {
-        List<Integer> ele = new ArrayList<>();
-        inorder(root,ele);
-        return ele.get(k-1);
+        // Morris Traversal
+        TreeNode curr = root;
+        while(curr!=null){
+            if(curr.left!=null){
+                TreeNode pred = curr.left;
+                while(pred.right!=null && pred.right!=curr) pred=pred.right;
+                if(pred.right==null){
+                    pred.right=curr;
+                    curr=curr.left;
+                }
+                else{
+                     k--;
+                    if(k==0) return curr.val;
+                    curr=curr.right;
+                    pred.right=null;
+                }
+            }
+            else{
+                k--;
+                if(k==0) return curr.val;
+                curr=curr.right;
+            }
+        }
+        return -1; 
     }
 }
