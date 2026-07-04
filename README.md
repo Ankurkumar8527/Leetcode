@@ -20,6 +20,7 @@ All Solved Leetcode question
 | [1095-find-in-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurkumar8527/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ankurkumar8527/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Ankurkumar8527/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ All Solved Leetcode question
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankurkumar8527/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ankurkumar8527/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -55,6 +57,7 @@ All Solved Leetcode question
 | [0013-roman-to-integer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankurkumar8527/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurkumar8527/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -239,4 +242,8 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Simulation
+|  |
+| ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
