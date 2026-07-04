@@ -1,12 +1,11 @@
 class Solution {
-    public int reverse(int val){
-        int newVal=0;
-        while(val>0){
-            int d = val%10;
-            val/=10;
-            newVal=newVal*10+d;
+    public int reverse(int n){
+        int rev=0;
+        while(n>0){
+            rev = rev * 10 + (n % 10);
+            n /= 10;
         }
-        return newVal;
+        return rev;
     }
     public int countDistinctIntegers(int[] nums) {
         HashMap<Integer,Integer> map = new HashMap<>();
