@@ -8,11 +8,11 @@ class Solution {
         return rev;
     }
     public int countDistinctIntegers(int[] nums) {
-        HashMap<Integer,Integer> map = new HashMap<>();
+        HashSet<Integer> map = new HashSet<>();
         for(int val:nums){
-            if(!map.containsKey(val)) map.put(val,1);
+            if(!map.contains(val)) map.add(val);
             int rev = reverse(val);
-            if(!map.containsKey(rev)) map.put(rev,1);
+            if(!map.contains(rev)) map.add(rev);
         }
         return map.size();
     }
