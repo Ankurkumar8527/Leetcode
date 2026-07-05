@@ -6,12 +6,12 @@ class Solution {
         return rev;
     }
     public int maximumNumberOfStringPairs(String[] words) {
-        HashMap<String,Integer> map = new HashMap<>();
+        HashSet<String> map = new HashSet<>();
         int count = 0;
         for(String s:words){
              String rev= reverse(s);
-            if(map.containsKey(rev)) count++;
-            if(!map.containsKey(s)) map.put(s,1);
+            if(map.contains(rev)) count++;
+            if(!map.contains(s)) map.add(s);
            
         }
         return count;
