@@ -10,7 +10,7 @@ class Solution {
             int num = i;
             int x = num%10;
             num/=10;
-            if(x%2==0 && map.containsKey(x) && map.get(x)!=0){
+            if(x%2==0 && map.containsKey(x)){
                 map.put(x,map.get(x)-1);
                 int y = num%10;
                 num/=10;
