@@ -6,7 +6,9 @@ class Solution {
             if(!map.containsKey(key)) map.put(key,1);
             else  map.put(key,map.get(key)+1);
         }
-        for(int key : map.keySet()){
+        int i = 0;
+        for(int key : map.keySet() ){
+            if(i>map.size()/2) break;
             int val = k-key;
             val = ((val%k)+k)%k;
             if(!map.containsKey(val)) return false;
@@ -14,6 +16,7 @@ class Solution {
             if(val==0 && f1%2!=0) return false;
             int f2 = map.get(key);
             if(f1!=f2) return false; 
+            i++;
         }
         return true;
     }
