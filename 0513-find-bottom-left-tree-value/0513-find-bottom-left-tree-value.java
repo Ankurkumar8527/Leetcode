@@ -18,16 +18,28 @@ class Solution {
         if(root==null) return 0;
         return 1+Math.max(levels(root.left),levels(root.right));
     }
-    public void LeftValue(TreeNode root,int n,int x,int[] ans){
-        if(root==null) return;
-        if(n==x) ans[0]=root.val;
-        LeftValue(root.right,n,x+1,ans);
-        LeftValue(root.left,n,x+1,ans);    
+    class Pair{
+        TreeNode node;
+        int val;
+        Pair(TreeNode node,int val){
+            this.node = node;
+            this.val=val;
+        }
+    }
+    public int BFS(TreeNode root){
+        Queue<Pair> q = new LinkedList<>();
+        int n = levels(root)-1;
+        q.add(new Pair(root,0));
+        while(!q.isEmpty()){
+            Pair front = q.remove();
+            int level = front.val;
+            if(n==level) return front.node.val;
+            if(front.node.left!=null) q.add(new Pair(front.node.left,level+1));
+            if(front.node.right!=null) q.add(new Pair(front.node.right,level+1));
+        }
+        return 0;
     }   
     public int findBottomLeftValue(TreeNode root) {
-        int[] ans = new int[1];
-        int n = levels(root)-1;
-        LeftValue(root,n,0,ans);
-        return ans[0];
+        return BFS(root);
     }
 }
