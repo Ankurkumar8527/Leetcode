@@ -53,6 +53,7 @@ All Solved Leetcode question
 | [0009-palindrome-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0013-roman-to-integer) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ankurkumar8527/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankurkumar8527/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
