@@ -26,21 +26,19 @@ class Solution {
             this.val=val;
         }
     }
-    public int BFS(TreeNode root){
-        Queue<Pair> q = new LinkedList<>();
+    public int findBottomLeftValue(TreeNode root) {
         int n = levels(root)-1;
+        if(n==0) return root.val;
+        Queue<Pair> q = new LinkedList<>();
         q.add(new Pair(root,0));
         while(!q.isEmpty()){
             Pair front = q.remove();
             int level = front.val;
-            if(n==level) return front.node.val;
             TreeNode temp = front.node;
+            if(n==level) return temp.val;
             if(temp.left!=null) q.add(new Pair(temp.left,level+1));
             if(temp.right!=null) q.add(new Pair(temp.right,level+1));
         }
         return 0;
-    }   
-    public int findBottomLeftValue(TreeNode root) {
-        return BFS(root);
     }
 }
