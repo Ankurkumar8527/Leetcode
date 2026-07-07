@@ -5,13 +5,11 @@ class Solution {
         int digit=1;
         while(num>0){
             int d = num%10;
-            if(d!=0){
+            num/=10;
+            if(d==0) continue;
             x+=digit*d;
             digit*=10;
             sum+=d;
-            }
-            num/=10;
-           
         }
         return (long)x*sum;
     }
