@@ -34,8 +34,9 @@ class Solution {
             Pair front = q.remove();
             int level = front.val;
             if(n==level) return front.node.val;
-            if(front.node.left!=null) q.add(new Pair(front.node.left,level+1));
-            if(front.node.right!=null) q.add(new Pair(front.node.right,level+1));
+            TreeNode temp = front.node;
+            if(temp.left!=null) q.add(new Pair(temp.left,level+1));
+            if(temp.right!=null) q.add(new Pair(temp.right,level+1));
         }
         return 0;
     }   
