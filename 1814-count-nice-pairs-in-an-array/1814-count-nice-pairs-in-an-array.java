@@ -11,10 +11,8 @@ class Solution {
         HashMap<Integer,Integer> map = new HashMap<>();
         int count = 0;
         int MOD = 1000000007;
-        for(int i=0;i<nums.length;i++){
-            nums[i]=nums[i]-reverse(nums[i]);
-        }
         for(int val:nums){
+            val = val-reverse(val);
                 if(!map.containsKey(val)) map.put(val,1);
                 else{
                     int freq = map.get(val);
