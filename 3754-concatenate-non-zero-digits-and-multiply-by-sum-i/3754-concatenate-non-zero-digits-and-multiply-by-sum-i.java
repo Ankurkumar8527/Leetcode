@@ -1,15 +1,18 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        String s = n+"";
         long x = 0;
-        int sum = 0;
-        for(int i=0;i<s.length();i++){
-            char ch = s.charAt(i);
-            if(ch!='0'){
-                int num = Integer.parseInt(ch+"");
-                x=x*10+num;
-                sum+=num;
+        int sum=0;
+        int num =  n;
+        int digit=1;
+        while(num>0){
+            int d = num%10;
+            if(d!=0){
+            x=x+digit*d;
+            digit*=10;
+            sum+=d;
             }
+            num/=10;
+           
         }
         return x*sum;
     }
