@@ -14,6 +14,6 @@ class Solution {
             num/=10;
            
         }
-        return x*sum;
+        return (long)x*sum;
     }
 }
