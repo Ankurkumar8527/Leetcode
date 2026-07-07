@@ -20,7 +20,7 @@ class Solution {
     }
     public void LeftValue(TreeNode root,int n,int x,int[] ans){
         if(root==null) return;
-        if(n==x && root!=null) ans[0]=root.val;
+        if(n==x) ans[0]=root.val;
         LeftValue(root.right,n,x+1,ans);
         LeftValue(root.left,n,x+1,ans);    
     }   
