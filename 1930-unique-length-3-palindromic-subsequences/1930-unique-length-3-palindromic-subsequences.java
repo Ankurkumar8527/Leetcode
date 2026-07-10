@@ -13,12 +13,13 @@ class Solution {
             if(smap.containsKey(key)){
                 int fidx = fmap.get(key);
                 int sidx = smap.get(key);
-                HashSet<Character> set = new HashSet<>();
+                boolean[] set = new boolean[26];
                 for(int i=fidx+1;i<sidx;i++){
-                    char ch = s.charAt(i);
-                    set.add(ch);
+                    int ch = s.charAt(i)-'a';
+                    if(set[ch]==true) continue;
+                    set[ch]=true;
+                    count++;
                 }
-                count+=set.size();
             }
         }
         return count;
