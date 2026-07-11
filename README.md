@@ -30,6 +30,7 @@ All Solved Leetcode question
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurkumar8527/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ankurkumar8527/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ankurkumar8527/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ankurkumar8527/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -103,6 +104,7 @@ All Solved Leetcode question
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankurkumar8527/Leetcode/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Tree
 |  |
 | ------- |
@@ -240,6 +242,7 @@ All Solved Leetcode question
 | [0162-find-peak-element](https://github.com/Ankurkumar8527/Leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1095-find-in-mountain-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Interactive
 |  |
 | ------- |
@@ -284,6 +287,7 @@ All Solved Leetcode question
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ankurkumar8527/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Simulation
 |  |
@@ -309,6 +313,7 @@ All Solved Leetcode question
 | [0724-find-pivot-index](https://github.com/Ankurkumar8527/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Design
 |  |
 | ------- |
