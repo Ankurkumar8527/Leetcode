@@ -17,6 +17,7 @@ All Solved Leetcode question
 | [0162-find-peak-element](https://github.com/Ankurkumar8527/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/Ankurkumar8527/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ankurkumar8527/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ankurkumar8527/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -46,6 +47,7 @@ All Solved Leetcode question
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankurkumar8527/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -311,6 +313,7 @@ All Solved Leetcode question
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ankurkumar8527/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ankurkumar8527/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ankurkumar8527/Leetcode/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/Ankurkumar8527/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1480-running-sum-of-1d-array) |
