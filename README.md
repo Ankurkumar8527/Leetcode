@@ -24,6 +24,7 @@ All Solved Leetcode question
 | [1095-find-in-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/Ankurkumar8527/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -50,6 +51,7 @@ All Solved Leetcode question
 | [0560-subarray-sum-equals-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankurkumar8527/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Ankurkumar8527/Leetcode/tree/master/1711-count-good-meals) |
@@ -288,6 +290,7 @@ All Solved Leetcode question
 | ------- |
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1331-rank-transform-of-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
