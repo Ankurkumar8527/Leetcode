@@ -18,7 +18,7 @@ class Solution {
             }
             else suffix[i]=suffix[i+1];
         }
-        int min=n+5;
+        int min=n+1;
         for(int i=0;i<n+1;i++){
             prefix[i]=prefix[i]+suffix[i];
             min=Math.min(min,prefix[i]);
