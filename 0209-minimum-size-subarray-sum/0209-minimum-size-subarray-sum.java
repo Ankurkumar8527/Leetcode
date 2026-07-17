@@ -5,9 +5,9 @@ class Solution {
         int sum = 0;
         int i=0,j=0;
         while(j<n && sum<target) sum+=nums[j++];
-        if(sum>=target) minLen=Math.min(minLen,j);
+        // if(sum>=target) minLen=Math.min(minLen,j);
         j--;
-        
+
         while(i<n && j<n){
             if(sum>=target) minLen=Math.min(minLen,j-i+1);
             sum=sum-nums[i++];
