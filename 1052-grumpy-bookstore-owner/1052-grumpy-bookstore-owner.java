@@ -1,13 +1,12 @@
 class Solution {
     public int maxSatisfied(int[] customers, int[] grumpy, int minutes) {
         int n = customers.length;
-        int i = 0,j=0,a=0,b=0;
+        int i = 0,j=minutes-1,a=0,b=j;
         int unsatified = 0;
         int maxUsatified = 0;
-        for( i=0;i<minutes;i++){
+        for( i=0;i<=j;i++){
             if(grumpy[i]==1) unsatified+=customers[i];
         }
-        j=i;
         i=0;
         while(i<n && j<n){
             if(unsatified>maxUsatified){
@@ -15,18 +14,12 @@ class Solution {
                 b=j;
                 maxUsatified=unsatified;
             }
-            if(grumpy[i]==1 && grumpy[j]==0) unsatified=unsatified-customers[i];
-            else if(grumpy[i]==0 && grumpy[j]==1) unsatified=unsatified+customers[j];
-            else if(grumpy[i]==1 && grumpy[j]==1) unsatified=unsatified-customers[i]+customers[j];
             i++;
             j++;
+            if(j<n && grumpy[j]==1) unsatified+=customers[j];
+            if(grumpy[i-1]==1) unsatified-=customers[i-1];
         }
-         if(unsatified>maxUsatified){
-                a=i;
-                b=j;
-                maxUsatified=unsatified;
-            }
-        for(int x=a;x<b;x++){
+        for(int x=a;x<=b;x++){
             grumpy[x]=0;
         }
         
