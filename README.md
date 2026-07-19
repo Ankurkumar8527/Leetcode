@@ -111,6 +111,7 @@ All Solved Leetcode question
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurkumar8527/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ankurkumar8527/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Ankurkumar8527/Leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ankurkumar8527/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sliding Window
