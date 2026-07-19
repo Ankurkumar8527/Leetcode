@@ -28,6 +28,7 @@ All Solved Leetcode question
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankurkumar8527/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1052-grumpy-bookstore-owner](https://github.com/Ankurkumar8527/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1095-find-in-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/Ankurkumar8527/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -123,6 +124,7 @@ All Solved Leetcode question
 | [0713-subarray-product-less-than-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankurkumar8527/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/Ankurkumar8527/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankurkumar8527/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ankurkumar8527/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ankurkumar8527/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
