@@ -93,6 +93,7 @@ All Solved Leetcode question
 | [0002-add-two-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ankurkumar8527/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -103,6 +104,7 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## String
 |  |
@@ -378,5 +380,10 @@ All Solved Leetcode question
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankurkumar8527/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
