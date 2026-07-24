@@ -97,6 +97,7 @@ All Solved Leetcode question
 | [0070-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ankurkumar8527/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ankurkumar8527/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -385,10 +386,12 @@ All Solved Leetcode question
 | [0070-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankurkumar8527/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
