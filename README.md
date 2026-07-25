@@ -96,6 +96,7 @@ All Solved Leetcode question
 | [0002-add-two-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Ankurkumar8527/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -385,6 +386,7 @@ All Solved Leetcode question
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ankurkumar8527/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ankurkumar8527/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0213-house-robber-ii) |
@@ -398,4 +400,8 @@ All Solved Leetcode question
 | [0070-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ankurkumar8527/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
