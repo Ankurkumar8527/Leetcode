@@ -39,6 +39,7 @@ All Solved Leetcode question
 | [1095-find-in-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/Ankurkumar8527/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ankurkumar8527/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankurkumar8527/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ankurkumar8527/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -404,6 +405,7 @@ All Solved Leetcode question
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ankurkumar8527/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankurkumar8527/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
@@ -424,4 +426,5 @@ All Solved Leetcode question
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0064-minimum-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ankurkumar8527/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
