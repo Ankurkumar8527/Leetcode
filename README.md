@@ -39,6 +39,7 @@ All Solved Leetcode question
 | [1331-rank-transform-of-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankurkumar8527/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ankurkumar8527/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankurkumar8527/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -337,6 +338,7 @@ All Solved Leetcode question
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -404,4 +406,8 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ankurkumar8527/Leetcode/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
