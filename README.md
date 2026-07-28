@@ -59,6 +59,7 @@ All Solved Leetcode question
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Ankurkumar8527/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
+| [3925-concatenate-array-with-reverse](https://github.com/Ankurkumar8527/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -357,6 +358,7 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/Ankurkumar8527/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Enumeration
 |  |
 | ------- |
