@@ -115,6 +115,7 @@ All Solved Leetcode question
 | [3536-maximum-product-of-two-digits](https://github.com/Ankurkumar8527/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankurkumar8527/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankurkumar8527/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3894-traffic-signal-color](https://github.com/Ankurkumar8527/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +136,7 @@ All Solved Leetcode question
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Ankurkumar8527/Leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ankurkumar8527/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3894-traffic-signal-color](https://github.com/Ankurkumar8527/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Sliding Window
 |  |
 | ------- |
@@ -358,6 +360,7 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3894-traffic-signal-color](https://github.com/Ankurkumar8527/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ankurkumar8527/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Enumeration
 |  |
