@@ -10,7 +10,6 @@ class Solution {
         for(int i=1;i*i<=n;i++){
             int val = minNum(i*i,dp)+minNum(n-i*i,dp);
             count = Math.min(count,val);
-            dp[i]=count;
         }
         return dp[n]=count;
     }
