@@ -3,19 +3,19 @@ class Solution {
         int sq = (int) Math.sqrt(n);
         return (sq*sq==n);
     }
-    public int minNum(int n,int[] dp){
-        if(perfectSq(n)) return 1;
-        int count = n;
-        if(dp[n]!=-1) return dp[n];
-        for(int i=1;i*i<=n;i++){
-            int val = minNum(i*i,dp)+minNum(n-i*i,dp);
-            count = Math.min(count,val);
-        }
-        return dp[n]=count;
-    }
     public int numSquares(int n) {
         int[] dp = new int[n+1];
-        Arrays.fill(dp,-1);
-        return minNum(n,dp);
+        for(int i=1;i<=n;i++){
+        if(perfectSq(i)) dp[i]=1;
+        else{
+            int min = Integer.MAX_VALUE;
+            for(int j=1;j*j<=i;j++){
+                int count = dp[j*j] + dp[i-j*j];
+                min=Math.min(min,count);
+               }
+               dp[i]=min;
+            }
+        }
+        return dp[n];
     }
 }
