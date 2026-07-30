@@ -1,11 +1,13 @@
 class Solution {
     public int climbStairs(int n) {
+        // Space Optimization 
         if(n<=3) return n;
-        int[] dp = new int[n];
-        dp[0]=1;dp[1]=2;dp[2]=3;
+        int a = 2,b = 3;
         for(int i=3;i<n;i++){
-            dp[i]=dp[i-1]+dp[i-2];
+            int c = a+b;
+            a=b;
+            b=c;
         }
-        return dp[n-1];
+        return b;
     }
 }
