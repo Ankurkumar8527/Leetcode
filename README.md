@@ -16,6 +16,7 @@ All Solved Leetcode question
 | [0046-permutations](https://github.com/Ankurkumar8527/Leetcode/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -295,6 +296,7 @@ All Solved Leetcode question
 | [0040-combination-sum-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ankurkumar8527/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Ankurkumar8527/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0113-path-sum-ii) |
 ## Counting
@@ -386,6 +388,7 @@ All Solved Leetcode question
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0090-subsets-ii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
