@@ -14,10 +14,13 @@ class Solution {
             ans.add(new ArrayList<>(path));
             return;
         }
+        Set<Integer> set = new HashSet<>();
         for(int i=idx;i<n;i++){
-                swap(nums,i,idx);
-                helper(idx+1,n,nums,ans);
-                swap(nums,i,idx); 
+                if(set.add(nums[i])){
+                    swap(nums,i,idx);
+                    helper(idx+1,n,nums,ans);
+                    swap(nums,i,idx); 
+                }
         }
     }
     public List<List<Integer>> permuteUnique(int[] nums) {
