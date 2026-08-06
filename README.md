@@ -15,6 +15,7 @@ All Solved Leetcode question
 | [0040-combination-sum-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ankurkumar8527/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Ankurkumar8527/Leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0078-subsets) |
@@ -298,6 +299,7 @@ All Solved Leetcode question
 | [0040-combination-sum-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ankurkumar8527/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Ankurkumar8527/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Ankurkumar8527/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0090-subsets-ii) |
@@ -470,4 +472,8 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0877-stone-game) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Ankurkumar8527/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
