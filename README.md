@@ -31,6 +31,7 @@ All Solved Leetcode question
 | [0238-product-of-array-except-self](https://github.com/Ankurkumar8527/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ankurkumar8527/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -308,6 +309,7 @@ All Solved Leetcode question
 | [0078-subsets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0494-target-sum) |
 ## Counting
 |  |
 | ------- |
@@ -438,6 +440,7 @@ All Solved Leetcode question
 | [0213-house-robber-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Ankurkumar8527/Leetcode/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0877-stone-game) |
@@ -487,4 +490,12 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ankurkumar8527/Leetcode/tree/master/0037-sudoku-solver) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
