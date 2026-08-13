@@ -1,21 +1,4 @@
 class Solution {
-    public boolean isSubset(int i,int arr[], int sum,int[][] dp){
-        if(i==-1){
-            if(sum==0) return true;
-            else return false;
-        }
-        if(dp[i][sum]!=-1) return (dp[i][sum]==1);
-        boolean ans = false;
-        boolean skip = isSubset(i-1,arr,sum,dp);
-        if(sum-arr[i]<0) ans = skip;
-        else{
-            boolean take = isSubset(i-1,arr,sum-arr[i],dp);
-            ans = take || skip;;
-        } 
-        if(ans) dp[i][sum]=1;
-        else dp[i][sum]=0;
-        return ans;
-    }
     public boolean canPartition(int[] nums) {
         int n = nums.length;
         int sum = 0;
@@ -23,10 +6,21 @@ class Solution {
             sum+=nums[i];
         }
         if(sum%2!=0) return false;
+        sum/=2;
         int[][] dp = new int[n][sum+1];
-        for(int i=0;i<n;i++){
-            for(int j=0;j<=sum;j++) dp[i][j]=-1;
+
+        for(int i=0;i<dp.length;i++){
+            for(int j=0;j<dp[0].length;j++) {
+                boolean ans = false;
+                boolean skip = (i>0) ? (dp[i-1][j]==1) : (j==0);
+                if(j-nums[i]<0) ans = skip;
+                else{
+                    boolean take = (i>0) ? (dp[i-1][j-nums[i]]==1) : (j==0);
+                    ans = take || skip;;
+                } 
+                dp[i][j]= (ans) ? 1 : 0;
+            }
         }
-        return isSubset(n-1,nums,sum/2,dp);
+        return (dp[n-1][sum]==1);
     }
 }
