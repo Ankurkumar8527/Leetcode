@@ -70,6 +70,7 @@ All Solved Leetcode question
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ankurkumar8527/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Ankurkumar8527/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ankurkumar8527/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -102,6 +103,7 @@ All Solved Leetcode question
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ankurkumar8527/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ankurkumar8527/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ankurkumar8527/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
@@ -386,6 +388,7 @@ All Solved Leetcode question
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ankurkumar8527/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankurkumar8527/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
