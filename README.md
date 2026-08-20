@@ -48,6 +48,7 @@ All Solved Leetcode question
 | [0904-fruit-into-baskets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0976-largest-perimeter-triangle](https://github.com/Ankurkumar8527/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankurkumar8527/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1052-grumpy-bookstore-owner](https://github.com/Ankurkumar8527/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
@@ -129,6 +130,7 @@ All Solved Leetcode question
 | [0523-continuous-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/Ankurkumar8527/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ankurkumar8527/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -195,6 +197,7 @@ All Solved Leetcode question
 | [0605-can-place-flowers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Ankurkumar8527/Leetcode/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/Ankurkumar8527/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Tree
@@ -395,6 +398,7 @@ All Solved Leetcode question
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Ankurkumar8527/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/Ankurkumar8527/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -537,4 +541,12 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ankurkumar8527/Leetcode/tree/master/0561-array-partition) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Ankurkumar8527/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Ankurkumar8527/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
