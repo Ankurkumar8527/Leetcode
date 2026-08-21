@@ -16,6 +16,7 @@ All Solved Leetcode question
 | [0040-combination-sum-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ankurkumar8527/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Ankurkumar8527/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Ankurkumar8527/Leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -129,6 +130,7 @@ All Solved Leetcode question
 | [0002-add-two-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Ankurkumar8527/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ankurkumar8527/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0189-rotate-array) |
@@ -510,6 +512,7 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ankurkumar8527/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Ankurkumar8527/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0867-transpose-matrix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0867-transpose-matrix) |
