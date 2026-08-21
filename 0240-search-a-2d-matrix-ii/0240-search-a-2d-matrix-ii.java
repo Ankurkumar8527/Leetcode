@@ -5,9 +5,9 @@ class Solution {
         int i=m-1;
         int j=0;
         while(i>=0 && j<n){
-            if(target<matrix[i][j]) i--;
+            if(target==matrix[i][j]) return true; 
             else if(target>matrix[i][j]) j++;
-            else return true;
+            else i--;
         }
         return false;
     }
