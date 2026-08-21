@@ -1,11 +1,16 @@
 class Solution {
     public List<List<Integer>> generate(int n) {
         List<List<Integer>> ans = new ArrayList<>();
-        for(int i=0;i<n;i++){
+        List<Integer> t = new ArrayList<>();
+        t.add(1);
+        ans.add(new ArrayList<>(t));
+        for(int i=1;i<n;i++){
             List<Integer> temp = new ArrayList<>();
-            for(int j=0;j<=i;j++){
-                if(j==0 || j==i) temp.add(1);
-                else temp.add(ans.get(i-1).get(j-1)+ans.get(i-1).get(j));
+            temp.add(1);
+            int nv = 1;
+            for(int j=1;j<=i;j++){
+                   nv = (nv*(i-j+1))/j;
+                   temp.add(nv); 
             }
             ans.add(new ArrayList<>(temp));
         }
