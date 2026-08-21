@@ -46,6 +46,7 @@ All Solved Leetcode question
 | [0746-min-cost-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Ankurkumar8527/Leetcode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -425,6 +426,7 @@ All Solved Leetcode question
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0867-transpose-matrix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3894-traffic-signal-color](https://github.com/Ankurkumar8527/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ankurkumar8527/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -510,6 +512,7 @@ All Solved Leetcode question
 | [0037-sudoku-solver](https://github.com/Ankurkumar8527/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0867-transpose-matrix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0867-transpose-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ankurkumar8527/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Minimax
 |  |
