@@ -18,6 +18,7 @@ All Solved Leetcode question
 | [0047-permutations-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Ankurkumar8527/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Ankurkumar8527/Leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Ankurkumar8527/Leetcode/tree/master/0075-sort-colors) |
@@ -430,6 +431,7 @@ All Solved Leetcode question
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0867-transpose-matrix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3894-traffic-signal-color](https://github.com/Ankurkumar8527/Leetcode/tree/master/3894-traffic-signal-color) |
@@ -515,6 +517,7 @@ All Solved Leetcode question
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ankurkumar8527/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Ankurkumar8527/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0867-transpose-matrix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0867-transpose-matrix) |
