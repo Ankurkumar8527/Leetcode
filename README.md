@@ -99,6 +99,7 @@ All Solved Leetcode question
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0205-isomorphic-strings](https://github.com/Ankurkumar8527/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Ankurkumar8527/Leetcode/tree/master/0409-longest-palindrome) |
@@ -170,6 +171,7 @@ All Solved Leetcode question
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankurkumar8527/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Ankurkumar8527/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Ankurkumar8527/Leetcode/tree/master/0409-longest-palindrome) |
