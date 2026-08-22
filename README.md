@@ -153,6 +153,7 @@ All Solved Leetcode question
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ankurkumar8527/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ankurkumar8527/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankurkumar8527/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankurkumar8527/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankurkumar8527/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankurkumar8527/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/Ankurkumar8527/Leetcode/tree/master/3894-traffic-signal-color) |
