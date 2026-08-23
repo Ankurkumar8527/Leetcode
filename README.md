@@ -143,6 +143,7 @@ All Solved Leetcode question
 | [0013-roman-to-integer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ankurkumar8527/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ankurkumar8527/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Ankurkumar8527/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Ankurkumar8527/Leetcode/tree/master/0279-perfect-squares) |
@@ -173,6 +174,7 @@ All Solved Leetcode question
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankurkumar8527/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Ankurkumar8527/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Ankurkumar8527/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -455,6 +457,7 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Ankurkumar8527/Leetcode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0867-transpose-matrix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3894-traffic-signal-color](https://github.com/Ankurkumar8527/Leetcode/tree/master/3894-traffic-signal-color) |
@@ -472,6 +475,7 @@ All Solved Leetcode question
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ankurkumar8527/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0090-subsets-ii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
