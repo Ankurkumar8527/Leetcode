@@ -183,6 +183,7 @@ All Solved Leetcode question
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ankurkumar8527/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurkumar8527/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ankurkumar8527/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ankurkumar8527/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ankurkumar8527/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ankurkumar8527/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
