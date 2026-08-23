@@ -631,4 +631,5 @@ All Solved Leetcode question
 | [0178-rank-scores](https://github.com/Ankurkumar8527/Leetcode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Ankurkumar8527/Leetcode/tree/master/0182-duplicate-emails) |
+| [0184-department-highest-salary](https://github.com/Ankurkumar8527/Leetcode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
