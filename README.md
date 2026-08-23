@@ -186,6 +186,7 @@ All Solved Leetcode question
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurkumar8527/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ankurkumar8527/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ankurkumar8527/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ankurkumar8527/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ankurkumar8527/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Ankurkumar8527/Leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
