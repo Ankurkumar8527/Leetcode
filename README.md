@@ -181,6 +181,7 @@ All Solved Leetcode question
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ankurkumar8527/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ankurkumar8527/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ankurkumar8527/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1859-sorting-the-sentence](https://github.com/Ankurkumar8527/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurkumar8527/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ankurkumar8527/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -441,6 +442,7 @@ All Solved Leetcode question
 | [1331-rank-transform-of-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1859-sorting-the-sentence](https://github.com/Ankurkumar8527/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ankurkumar8527/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -606,4 +608,5 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ankurkumar8527/Leetcode/tree/master/0075-sort-colors) |
+| [1859-sorting-the-sentence](https://github.com/Ankurkumar8527/Leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
