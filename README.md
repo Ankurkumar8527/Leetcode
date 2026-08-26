@@ -48,6 +48,7 @@ All Solved Leetcode question
 | [0561-array-partition](https://github.com/Ankurkumar8527/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Ankurkumar8527/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ankurkumar8527/Leetcode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -209,6 +210,7 @@ All Solved Leetcode question
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankurkumar8527/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Ankurkumar8527/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
