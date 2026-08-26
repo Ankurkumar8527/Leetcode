@@ -119,6 +119,7 @@ All Solved Leetcode question
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Ankurkumar8527/Leetcode/tree/master/1711-count-good-meals) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ankurkumar8527/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -193,6 +194,7 @@ All Solved Leetcode question
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ankurkumar8527/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ankurkumar8527/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Ankurkumar8527/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/Ankurkumar8527/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurkumar8527/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
