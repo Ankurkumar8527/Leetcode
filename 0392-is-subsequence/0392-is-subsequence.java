@@ -12,6 +12,8 @@ class Solution {
                 j++;
             }
             else j++;
+            if(i==n) return true;;
+            
         }
         return i==n;
     }
