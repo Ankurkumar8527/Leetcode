@@ -186,6 +186,7 @@ All Solved Leetcode question
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Ankurkumar8527/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Ankurkumar8527/Leetcode/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Ankurkumar8527/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -236,6 +237,7 @@ All Solved Leetcode question
 | [0189-rotate-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ankurkumar8527/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Ankurkumar8527/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Ankurkumar8527/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -535,6 +537,7 @@ All Solved Leetcode question
 | [0213-house-robber-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Ankurkumar8527/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ankurkumar8527/Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Ankurkumar8527/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
