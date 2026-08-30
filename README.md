@@ -41,6 +41,7 @@ All Solved Leetcode question
 | [0283-move-zeroes](https://github.com/Ankurkumar8527/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Ankurkumar8527/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Ankurkumar8527/Leetcode/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ankurkumar8527/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -249,6 +250,7 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankurkumar8527/Leetcode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ankurkumar8527/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/Ankurkumar8527/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Ankurkumar8527/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0605-can-place-flowers) |
@@ -676,4 +678,8 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankurkumar8527/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Ankurkumar8527/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
