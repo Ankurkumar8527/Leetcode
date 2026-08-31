@@ -19,9 +19,6 @@ class Solution {
         }
         int i=0,j=0,maxlen=0,zeroes=0;
 
-        // while(i<n && nums[i]==0) i++;
-        // j=i;
-
         while(i<n && j<n){
             if(nums[j]==1) j++;
             else{
@@ -35,7 +32,6 @@ class Solution {
                     j++;
                     while(i<n && nums[i]==1) i++;
                     i++;
-                    // zeroes--;
                 }
             }
         }
