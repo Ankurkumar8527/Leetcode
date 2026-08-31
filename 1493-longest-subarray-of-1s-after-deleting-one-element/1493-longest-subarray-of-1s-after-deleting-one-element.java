@@ -1,7 +1,7 @@
 class Solution {
     public int longestSubarray(int[] nums) {
         int n = nums.length;
-        int z =0;
+        int z = 0;
         for(int ele : nums) {
             if(ele==0) z++;
         }
