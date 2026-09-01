@@ -176,6 +176,7 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## String
@@ -191,6 +192,7 @@ All Solved Leetcode question
 | [0345-reverse-vowels-of-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ankurkumar8527/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Ankurkumar8527/Leetcode/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Ankurkumar8527/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -354,6 +356,7 @@ All Solved Leetcode question
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankurkumar8527/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Ankurkumar8527/Leetcode/tree/master/0735-asteroid-collision) |
 | [0897-increasing-order-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
