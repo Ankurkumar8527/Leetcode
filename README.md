@@ -51,6 +51,7 @@ All Solved Leetcode question
 | [0605-can-place-flowers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankurkumar8527/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Ankurkumar8527/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ankurkumar8527/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ankurkumar8527/Leetcode/tree/master/0735-asteroid-collision) |
@@ -425,6 +426,7 @@ All Solved Leetcode question
 | [0162-find-peak-element](https://github.com/Ankurkumar8527/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/Ankurkumar8527/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankurkumar8527/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
