@@ -1,15 +1,13 @@
 class Solution {
     public void helper(int i,int n,int[] nums,List<Integer> comb,List<List<Integer>> ans){
-        if(i==n){
-            if(!ans.contains(comb)){
+        if(comb.size()==n){
                 ans.add(new ArrayList<>(comb));
                 return;
-            }
         }
         for(int idx=0;idx<n;idx++){
             if(!comb.contains(nums[idx])){
                 comb.add(nums[idx]);
-                helper(i+1,n,nums,comb,ans);
+                helper(idx+1,n,nums,comb,ans);
                 comb.remove(comb.size()-1);
             } 
         }
