@@ -1,20 +1,23 @@
 class Solution {
-    public void helper(int idx,int[] nums,List<Integer> path, List<List<Integer>> ans){
-        if(path.size()==nums.length){
-            ans.add(new ArrayList<>(path));
-            return;
-        }
-        for(int i=0;i<nums.length;i++){
-            if(!path.contains(nums[i])){
-                path.add(nums[i]);
-                helper(i+1,nums,path,ans);
-                path.remove(path.size()-1);
+    public void helper(int i,int n,int[] nums,List<Integer> comb,List<List<Integer>> ans){
+        if(i==n){
+            if(!ans.contains(comb)){
+                ans.add(new ArrayList<>(comb));
+                return;
             }
+        }
+        for(int idx=0;idx<n;idx++){
+            if(!comb.contains(nums[idx])){
+                comb.add(nums[idx]);
+                helper(i+1,n,nums,comb,ans);
+                comb.remove(comb.size()-1);
+            } 
         }
     }
     public List<List<Integer>> permute(int[] nums) {
+        int n = nums.length;
         List<List<Integer>> ans = new ArrayList<>();
-        helper(0,nums,new ArrayList<>(),ans);
+        helper(0,n,nums,new ArrayList<>(),ans);
         return ans;
     }
 }
