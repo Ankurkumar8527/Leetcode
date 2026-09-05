@@ -1,8 +1,7 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
         int n = nums.length;
-        if(n==1 && nums[0]==k) return 0;
-        int max = 0;
+        int max = Integer.MIN_VALUE;
         int min = Integer.MAX_VALUE;
         int[] lsum = new int[n];
         for(int i=n-1;i>=0;i--){
