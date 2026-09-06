@@ -38,6 +38,7 @@ All Solved Leetcode question
 | [0213-house-robber-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ankurkumar8527/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ankurkumar8527/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Ankurkumar8527/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Ankurkumar8527/Leetcode/tree/master/0322-coin-change) |
@@ -114,6 +115,7 @@ All Solved Leetcode question
 | [0138-copy-list-with-random-pointer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/Ankurkumar8527/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Ankurkumar8527/Leetcode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -160,6 +162,7 @@ All Solved Leetcode question
 | [0067-add-binary](https://github.com/Ankurkumar8527/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Ankurkumar8527/Leetcode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -428,6 +431,7 @@ All Solved Leetcode question
 | [0162-find-peak-element](https://github.com/Ankurkumar8527/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Ankurkumar8527/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -478,6 +482,7 @@ All Solved Leetcode question
 | [0047-permutations-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Ankurkumar8527/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Ankurkumar8527/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Ankurkumar8527/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -518,6 +523,7 @@ All Solved Leetcode question
 | [0067-add-binary](https://github.com/Ankurkumar8527/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ankurkumar8527/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
