@@ -31,6 +31,7 @@ All Solved Leetcode question
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Ankurkumar8527/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Ankurkumar8527/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ankurkumar8527/Leetcode/tree/master/0198-house-robber) |
@@ -526,6 +527,7 @@ All Solved Leetcode question
 | [0067-add-binary](https://github.com/Ankurkumar8527/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
