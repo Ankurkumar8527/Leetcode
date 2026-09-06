@@ -4,15 +4,10 @@ class Solution {
         nums[i]=nums[j];
         nums[j]=t;
     }
-    public int findDuplicate(int[] nums) {
-        int n = nums.length;
-        int i = 0;
-        while(i<n){
-            int x = nums[i]-1;
-            if(x==i) i++;
-            else if(x==nums[x]-1) return x+1;
-            else swap(nums,x,i);    
+    public int findDuplicate(int[] a) {
+        while(true){
+           if(a[0]==a[a[0]]) return a[0];
+           swap(a,0,a[0]);
         }
-        return n;
     }
 }
