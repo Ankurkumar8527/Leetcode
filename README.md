@@ -46,6 +46,7 @@ All Solved Leetcode question
 | [0322-coin-change](https://github.com/Ankurkumar8527/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ankurkumar8527/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -121,6 +122,7 @@ All Solved Leetcode question
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Ankurkumar8527/Leetcode/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0525-contiguous-array) |
@@ -489,6 +491,7 @@ All Solved Leetcode question
 | [0075-sort-colors](https://github.com/Ankurkumar8527/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Ankurkumar8527/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Ankurkumar8527/Leetcode/tree/master/0976-largest-perimeter-triangle) |
