@@ -40,6 +40,7 @@ All Solved Leetcode question
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ankurkumar8527/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Ankurkumar8527/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Ankurkumar8527/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ankurkumar8527/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -253,6 +254,7 @@ All Solved Leetcode question
 | [0151-reverse-words-in-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ankurkumar8527/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ankurkumar8527/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Ankurkumar8527/Leetcode/tree/master/0443-string-compression) |
@@ -432,6 +434,7 @@ All Solved Leetcode question
 | [0209-minimum-size-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Ankurkumar8527/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -524,6 +527,7 @@ All Solved Leetcode question
 | [0078-subsets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ankurkumar8527/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
@@ -715,4 +719,12 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Ankurkumar8527/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
