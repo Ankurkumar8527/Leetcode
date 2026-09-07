@@ -120,6 +120,7 @@ All Solved Leetcode question
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankurkumar8527/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Ankurkumar8527/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
@@ -162,6 +163,7 @@ All Solved Leetcode question
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankurkumar8527/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankurkumar8527/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Ankurkumar8527/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankurkumar8527/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankurkumar8527/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -269,6 +271,7 @@ All Solved Leetcode question
 | [0075-sort-colors](https://github.com/Ankurkumar8527/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Ankurkumar8527/Leetcode/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankurkumar8527/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ankurkumar8527/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0287-find-the-duplicate-number) |
