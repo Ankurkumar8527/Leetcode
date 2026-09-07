@@ -161,6 +161,7 @@ All Solved Leetcode question
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankurkumar8527/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0203-remove-linked-list-elements](https://github.com/Ankurkumar8527/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankurkumar8527/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -196,6 +197,7 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Ankurkumar8527/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
