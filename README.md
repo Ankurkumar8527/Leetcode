@@ -57,6 +57,7 @@ All Solved Leetcode question
 | [0605-can-place-flowers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankurkumar8527/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Ankurkumar8527/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Ankurkumar8527/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ankurkumar8527/Leetcode/tree/master/0724-find-pivot-index) |
@@ -129,6 +130,7 @@ All Solved Leetcode question
 | [0523-continuous-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Ankurkumar8527/Leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -496,6 +498,7 @@ All Solved Leetcode question
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Ankurkumar8527/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Ankurkumar8527/Leetcode/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/Ankurkumar8527/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -537,6 +540,7 @@ All Solved Leetcode question
 | [0136-single-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Ankurkumar8527/Leetcode/tree/master/0645-set-mismatch) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ankurkumar8527/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
