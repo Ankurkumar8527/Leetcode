@@ -352,6 +352,7 @@ All Solved Leetcode question
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankurkumar8527/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -400,6 +401,7 @@ All Solved Leetcode question
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankurkumar8527/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
@@ -437,6 +439,7 @@ All Solved Leetcode question
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankurkumar8527/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |
