@@ -249,6 +249,7 @@ All Solved Leetcode question
 | [1859-sorting-the-sentence](https://github.com/Ankurkumar8527/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurkumar8527/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/Ankurkumar8527/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ankurkumar8527/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ankurkumar8527/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -302,6 +303,7 @@ All Solved Leetcode question
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ankurkumar8527/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Ankurkumar8527/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/Ankurkumar8527/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ankurkumar8527/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ankurkumar8527/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Greedy
@@ -415,6 +417,7 @@ All Solved Leetcode question
 | [0735-asteroid-collision](https://github.com/Ankurkumar8527/Leetcode/tree/master/0735-asteroid-collision) |
 | [0897-increasing-order-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2000-reverse-prefix-of-word](https://github.com/Ankurkumar8527/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Depth-First Search
 |  |
