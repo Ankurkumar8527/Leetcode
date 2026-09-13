@@ -1,7 +1,6 @@
 class Solution {
     public int reverse(int x) {
-        if(x==0)
-        return x;
+        if(x>=-9 && x<=9) return x;
         int n = Math.abs(x);
         int ans = 0;
         while(n>0){
