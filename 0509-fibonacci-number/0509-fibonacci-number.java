@@ -5,10 +5,8 @@ class Solution {
         return dp[n]=fibo(n-1,dp)+fibo(n-2,dp);
     }
     public int fib(int n) {
-        if(n==0 || n==1) return n;
         int[] dp = new int[n+1];
         Arrays.fill(dp,-1);
-        fibo(n,dp);
-        return dp[n];
+        return fibo(n,dp);
     }
 }
