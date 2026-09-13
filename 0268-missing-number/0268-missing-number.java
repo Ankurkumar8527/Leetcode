@@ -1,14 +1,19 @@
 class Solution {
+    public void swap(int[] nums,int i,int j){
+        int t = nums[i];
+        nums[i]=nums[j];
+        nums[j]=t;
+    }
     public int missingNumber(int[] nums) {
         int n = nums.length;
-        boolean[] ans = new boolean[n+1];
-        for(int i=0;i<n;i++){
-            ans[nums[i]]=true;
+        int i = 0;
+        while(i<n){
+            if(i==n || nums[i]==n || nums[i]==i) i++;
+            else swap(nums,i,nums[i]);
         }
-        int c = -1;
-        for(int i=0;i<n+1;i++){
-            if(!ans[i]) c=i;
+        for(int j=0;j<n;j++){
+            if(nums[j]!=j) return j;
         }
-        return  c; 
+        return n;
     }
 }
