@@ -195,6 +195,7 @@ All Solved Leetcode question
 | [0189-rotate-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Ankurkumar8527/Leetcode/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -691,10 +692,12 @@ All Solved Leetcode question
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -822,4 +825,16 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Ankurkumar8527/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
