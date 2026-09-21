@@ -193,6 +193,7 @@ All Solved Leetcode question
 | [0067-add-binary](https://github.com/Ankurkumar8527/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Ankurkumar8527/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Ankurkumar8527/Leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0292-nim-game) |
@@ -225,6 +226,7 @@ All Solved Leetcode question
 | [0021-merge-two-sorted-lists](https://github.com/Ankurkumar8527/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Ankurkumar8527/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ankurkumar8527/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ankurkumar8527/Leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -611,6 +613,7 @@ All Solved Leetcode question
 | [0136-single-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Ankurkumar8527/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ankurkumar8527/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Ankurkumar8527/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Ankurkumar8527/Leetcode/tree/master/0645-set-mismatch) |
