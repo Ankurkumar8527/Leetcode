@@ -197,6 +197,7 @@ All Solved Leetcode question
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Ankurkumar8527/Leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/Ankurkumar8527/Leetcode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -227,6 +228,7 @@ All Solved Leetcode question
 | [0203-remove-linked-list-elements](https://github.com/Ankurkumar8527/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ankurkumar8527/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ankurkumar8527/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Ankurkumar8527/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -616,6 +618,7 @@ All Solved Leetcode question
 | [0231-power-of-two](https://github.com/Ankurkumar8527/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Ankurkumar8527/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Ankurkumar8527/Leetcode/tree/master/0645-set-mismatch) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
