@@ -210,6 +210,7 @@ All Solved Leetcode question
 | [0989-add-to-array-form-of-integer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankurkumar8527/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ankurkumar8527/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ankurkumar8527/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -624,6 +625,7 @@ All Solved Leetcode question
 | [0342-power-of-four](https://github.com/Ankurkumar8527/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Ankurkumar8527/Leetcode/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ankurkumar8527/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1486-xor-operation-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ankurkumar8527/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ankurkumar8527/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
