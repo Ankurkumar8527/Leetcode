@@ -105,6 +105,7 @@ All Solved Leetcode question
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Ankurkumar8527/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankurkumar8527/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Ankurkumar8527/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3903-smallest-stable-index-i](https://github.com/Ankurkumar8527/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -217,6 +218,7 @@ All Solved Leetcode question
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ankurkumar8527/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankurkumar8527/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankurkumar8527/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankurkumar8527/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankurkumar8527/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankurkumar8527/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
