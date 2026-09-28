@@ -74,6 +74,7 @@ All Solved Leetcode question
 | [0976-largest-perimeter-triangle](https://github.com/Ankurkumar8527/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ankurkumar8527/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankurkumar8527/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankurkumar8527/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankurkumar8527/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/Ankurkumar8527/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
@@ -340,6 +341,7 @@ All Solved Leetcode question
 | [0680-valid-palindrome-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Ankurkumar8527/Leetcode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Ankurkumar8527/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankurkumar8527/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -582,6 +584,7 @@ All Solved Leetcode question
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Ankurkumar8527/Leetcode/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/Ankurkumar8527/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankurkumar8527/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankurkumar8527/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
