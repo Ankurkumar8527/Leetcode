@@ -93,6 +93,7 @@ All Solved Leetcode question
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ankurkumar8527/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ankurkumar8527/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1711-count-good-meals](https://github.com/Ankurkumar8527/Leetcode/tree/master/1711-count-good-meals) |
 | [1732-find-the-highest-altitude](https://github.com/Ankurkumar8527/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -344,6 +345,7 @@ All Solved Leetcode question
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankurkumar8527/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ankurkumar8527/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ankurkumar8527/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Tree
 |  |
@@ -589,6 +591,7 @@ All Solved Leetcode question
 | [1331-rank-transform-of-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ankurkumar8527/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1859-sorting-the-sentence](https://github.com/Ankurkumar8527/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
