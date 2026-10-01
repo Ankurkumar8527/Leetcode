@@ -21,6 +21,7 @@ All Solved Leetcode question
 | [0048-rotate-image](https://github.com/Ankurkumar8527/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Ankurkumar8527/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Ankurkumar8527/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ankurkumar8527/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -580,6 +581,7 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Ankurkumar8527/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ankurkumar8527/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Ankurkumar8527/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
@@ -775,6 +777,7 @@ All Solved Leetcode question
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ankurkumar8527/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ankurkumar8527/Leetcode/tree/master/0075-sort-colors) |
 | [0976-largest-perimeter-triangle](https://github.com/Ankurkumar8527/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
