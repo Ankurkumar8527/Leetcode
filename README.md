@@ -108,6 +108,7 @@ All Solved Leetcode question
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ankurkumar8527/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ankurkumar8527/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2706-buy-two-chocolates](https://github.com/Ankurkumar8527/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Ankurkumar8527/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
@@ -360,6 +361,7 @@ All Solved Leetcode question
 | [1710-maximum-units-on-a-truck](https://github.com/Ankurkumar8527/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2706-buy-two-chocolates](https://github.com/Ankurkumar8527/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Tree
 |  |
 | ------- |
@@ -613,6 +615,7 @@ All Solved Leetcode question
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Ankurkumar8527/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2706-buy-two-chocolates](https://github.com/Ankurkumar8527/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankurkumar8527/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
