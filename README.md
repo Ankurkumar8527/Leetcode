@@ -116,6 +116,7 @@ All Solved Leetcode question
 | [3285-find-indices-of-stable-mountains](https://github.com/Ankurkumar8527/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankurkumar8527/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ankurkumar8527/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Ankurkumar8527/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3903-smallest-stable-index-i](https://github.com/Ankurkumar8527/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ankurkumar8527/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -364,6 +365,7 @@ All Solved Leetcode question
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/Ankurkumar8527/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ankurkumar8527/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Tree
 |  |
 | ------- |
@@ -620,6 +622,7 @@ All Solved Leetcode question
 | [2706-buy-two-chocolates](https://github.com/Ankurkumar8527/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankurkumar8527/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ankurkumar8527/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
