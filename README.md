@@ -72,6 +72,7 @@ All Solved Leetcode question
 | [0860-lemonade-change](https://github.com/Ankurkumar8527/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Ankurkumar8527/Leetcode/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Ankurkumar8527/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankurkumar8527/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankurkumar8527/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
