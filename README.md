@@ -104,6 +104,7 @@ All Solved Leetcode question
 | [1711-count-good-meals](https://github.com/Ankurkumar8527/Leetcode/tree/master/1711-count-good-meals) |
 | [1732-find-the-highest-altitude](https://github.com/Ankurkumar8527/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurkumar8527/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ankurkumar8527/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -641,6 +642,7 @@ All Solved Leetcode question
 | [0067-add-binary](https://github.com/Ankurkumar8527/Leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Ankurkumar8527/Leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Ankurkumar8527/Leetcode/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ankurkumar8527/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
