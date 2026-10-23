@@ -145,6 +145,7 @@ All Solved Leetcode question
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Ankurkumar8527/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Ankurkumar8527/Leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -270,6 +271,7 @@ All Solved Leetcode question
 | [0344-reverse-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Ankurkumar8527/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ankurkumar8527/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Ankurkumar8527/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Ankurkumar8527/Leetcode/tree/master/0409-longest-palindrome) |
@@ -611,6 +613,7 @@ All Solved Leetcode question
 | [0148-sort-list](https://github.com/Ankurkumar8527/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Ankurkumar8527/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Ankurkumar8527/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankurkumar8527/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Ankurkumar8527/Leetcode/tree/master/0455-assign-cookies) |
@@ -673,6 +676,7 @@ All Solved Leetcode question
 | [0268-missing-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Ankurkumar8527/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Ankurkumar8527/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Ankurkumar8527/Leetcode/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ankurkumar8527/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1486-xor-operation-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1486-xor-operation-in-an-array) |
