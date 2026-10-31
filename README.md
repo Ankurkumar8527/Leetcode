@@ -232,6 +232,7 @@ All Solved Leetcode question
 | [1486-xor-operation-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ankurkumar8527/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ankurkumar8527/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2427-number-of-common-factors](https://github.com/Ankurkumar8527/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ankurkumar8527/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ankurkumar8527/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/3270-find-the-key-of-the-numbers) |
@@ -655,12 +656,14 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankurkumar8527/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2427-number-of-common-factors](https://github.com/Ankurkumar8527/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ankurkumar8527/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ankurkumar8527/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ankurkumar8527/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2427-number-of-common-factors](https://github.com/Ankurkumar8527/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankurkumar8527/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -871,10 +874,12 @@ All Solved Leetcode question
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankurkumar8527/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2427-number-of-common-factors](https://github.com/Ankurkumar8527/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankurkumar8527/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2427-number-of-common-factors](https://github.com/Ankurkumar8527/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
